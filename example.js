@@ -15,5 +15,6 @@ console.log(h);
 console.log(i);
 console.log(j);
 console.log(typeof(g));
+console.log('hello world')
 
 
